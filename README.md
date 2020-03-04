@@ -17,3 +17,5 @@ This repo only shows you the list of up to date tools that Im using for web deve
 * Dynamic Table
   * https://xaksis.github.io/vue-good-table/
   * https://bootstrap-vue.js.org/docs/components/table/
+* Google Map
+  * https://github.com/xkjyeah/vue-google-maps
