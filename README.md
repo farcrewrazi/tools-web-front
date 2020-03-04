@@ -14,6 +14,7 @@ This repo only shows you the list of up to date tools that Im using for web deve
   * https://vuetifyjs.com/en/
   * https://bootstrap-vue.js.org/ or just https://getbootstrap.com/
   * https://buefy.org/ or just https://bulma.io/
+  * https://coreui.io/
 
 
 #### Vue Libraries
