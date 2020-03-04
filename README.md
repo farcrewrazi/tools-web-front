@@ -5,7 +5,8 @@ This repo only shows you the list of up to date tools that Im using for web deve
 
 ## VueJS
 #### Basic
-* [Full Doc] https://vuejs.org/
+* Full Doc : https://vuejs.org/
+* Vuex : https://vuex.vuejs.org/
 * Project Structure : 
   * https://cli.vuejs.org/ (mostly used)
   * https://nuxtjs.org/
